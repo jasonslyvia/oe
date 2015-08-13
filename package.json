@@ -1,0 +1,19 @@
+{
+  "name": "oe",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jasonslyvia/oe.git"
+  },
+  "author": "jasonslyvia <jasonslyvia@gmail.com> (http://undefinedblog.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jasonslyvia/oe/issues"
+  },
+  "homepage": "https://github.com/jasonslyvia/oe"
+}
